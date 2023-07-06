@@ -1,0 +1,3 @@
+*** LEIA ME ***
+Coloque esse script dentro da pasta raiz dos seus projetos ex.: /projects/_Scripts
+Quandos algum script rodar as pastas serão criadas na raiz /projects
